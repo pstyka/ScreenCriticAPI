@@ -1,0 +1,6 @@
+package pawel.stringframework.screencriticapi.model;
+
+public enum Category {
+    ACTION, ADVENTURE, ANIMATION, COMEDY, CRIME, DOCUMENTARY, DRAMA, FAMILY, FANTASY,
+    HISTORY, HORROR, MUSIC, MYSTERY, ROMANCE, SCIENCE_FICTION, THRILLER, WAR, WESTERN
+}
