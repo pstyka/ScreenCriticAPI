@@ -1,0 +1,51 @@
+row,movie_name,movie_category,movie_description,movie_director,movie_release_date,movie_avg_rating,version
+1,The Godfather,CRIME,"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",Francis Ford Coppola,1972,9.2,1
+2,The Dark Knight,ACTION,"When the menace known as The Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",Christopher Nolan,2008,9.0,1
+3,Pulp Fiction,CRIME,"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",Quentin Tarantino,1994,8.9,1
+4,Schindler's List,DRAMA,"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",Steven Spielberg,1993,8.9,1
+5,Inception,SCIENCE FICTION,"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",Christopher Nolan,2010,8.8,1
+6,The Lord of the Rings: The Return of the King,FANTASY,"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",Peter Jackson,2003,8.9,1
+7,Fight Club,DRAMA,"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",David Fincher,1999,8.8,1
+8,Goodfellas,CRIME,"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",Martin Scorsese,1990,8.7,1
+9,The Lord of the Rings: The Fellowship of the Ring,FANTASY,"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",Peter Jackson,2001,8.8,1
+10,The Green Mile,DRAMA,"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",Frank Darabont,1999,8.6,1
+11,Se7en,CRIME,"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",David Fincher,1995,8.6,1
+12,The Silence of the Lambs,THRILLER,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",Jonathan Demme,1991,8.6,1
+13,Saving Private Ryan,WAR,"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",Steven Spielberg,1998,8.6,1
+14,The Usual Suspects,THRILLER,"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",Bryan Singer,1995,8.5,1
+15,The Lion King,ANIMATION,"Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.",Roger Allers,1994,8.5,1
+16,Gladiator,ACTION,"A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",Ridley Scott,2000,8.5,1
+17,The Pianist,WAR,"A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",Roman Polanski,2002,8.5,1
+18,Interstellar,SCIENCE FICTION,"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",Christopher Nolan,2014,8.6,1
+19,The Departed,CRIME,"An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",Martin Scorsese,2006,8.5,1
+20,The Prestige,DRAMA,"After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",Christopher Nolan,2006,8.5,1
+21,American History X,DRAMA,"A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",Tony Kaye,1998,8.5,1
+22,The Shawshank Redemption,DRAMA,"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",Frank Darabont,1994,9.3,1
+23,Forrest Gump,DRAMA,"The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",Robert Zemeckis,1994,8.8,1
+24,Spirited Away,ANIMATION,"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",Hayao Miyazaki,2001,8.6,1
+25,City of God,CRIME,"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",Fernando Meirelles,2002,8.6,1
+26,The Matrix,SCIENCE FICTION,"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",Lana Wachowski,1999,8.7,1
+27,The Intouchables,COMEDY,"After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",Olivier Nakache,2011,8.5,1
+28,Léon: The Professional,ACTION,"Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.",Luc Besson,1994,8.5,1
+29,The Lord of the Rings: The Two Towers,FANTASY,"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",Peter Jackson,2002,8.7,1
+30,The Matrix,SCIENCE FICTION,"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",Lana Wachowski,1999,8.7,1
+31,The Usual Suspects,THRILLER,"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",Bryan Singer,1995,8.5,1
+32,The Lion King,ANIMATION,"Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.",Roger Allers,1994,8.5,1
+33,Gladiator,ACTION,"A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",Ridley Scott,2000,8.5,1
+34,The Pianist,WAR,"A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",Roman Polanski,2002,8.5,1
+35,Interstellar,SCIENCE FICTION,"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",Christopher Nolan,2014,8.6,1
+36,The Departed,CRIME,"An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",Martin Scorsese,2006,8.5,1
+37,The Prestige,DRAMA,"After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",Christopher Nolan,2006,8.5,1
+38,American History X,DRAMA,"A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",Tony Kaye,1998,8.5,1
+39,The Shawshank Redemption,DRAMA,"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",Frank Darabont,1994,9.3,1
+40,Forrest Gump,DRAMA,"The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",Robert Zemeckis,1994,8.8,1
+41,Spirited Away,ANIMATION,"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",Hayao Miyazaki,2001,8.6,1
+42,City of God,CRIME,"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",Fernando Meirelles,2002,8.6,1
+43,The Dark Knight Rises,ACTION,"Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",Christopher Nolan,2012,8.4,1
+44,The Lord of the Rings: The Return of the King,FANTASY,"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",Peter Jackson,2003,8.9,1
+45,Fight Club,DRAMA,"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",David Fincher,1999,8.8,1
+46,Goodfellas,CRIME,"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",Martin Scorsese,1990,8.7,1
+47,The Lord of the Rings: The Fellowship of the Ring,FANTASY,"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",Peter Jackson,2001,8.8,1
+48,The Green Mile,DRAMA,"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",Frank Darabont,1999,8.6,1
+49,Se7en,CRIME,"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",David Fincher,1995,8.6,1
+50,The Silence of the Lambs,THRILLER,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",Jonathan Demme,1991,8.6,1
