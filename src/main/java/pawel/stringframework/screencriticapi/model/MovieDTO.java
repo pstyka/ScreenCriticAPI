@@ -2,15 +2,18 @@ package pawel.stringframework.screencriticapi.model;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-
+import lombok.NoArgsConstructor;
 
 
 import java.util.UUID;
 
 @Builder
 @Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class MovieDTO {
 
     private UUID id;
@@ -21,7 +24,7 @@ public class MovieDTO {
     private String movieName;
 
     @NotNull
-    private Category movieCategory;
+    private String movieCategoryId;
 
     @NotNull
     private String movieDirector;
