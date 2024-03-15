@@ -9,4 +9,5 @@ import java.util.UUID;
 public interface CategoryService {
     public List<CategoryDTO> listCategories();
     public Map<String, String> categoryMap();
+
 }

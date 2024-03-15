@@ -33,5 +33,10 @@ public class MovieServiceJPA implements MovieService {
                 .orElse(null)));
     }
 
+    @Override
+    public List<Movie> getMovieByCategoryId(String id) {
+        return movieRepository.findAllByMovieCategoryId(id);
+    }
+
 
 }

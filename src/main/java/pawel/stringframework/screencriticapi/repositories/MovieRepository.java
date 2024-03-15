@@ -7,5 +7,5 @@ import java.util.List;
 import java.util.UUID;
 
 public interface MovieRepository extends JpaRepository<Movie, UUID> {
-
+    List<Movie> findAllByMovieCategoryId(String movieCategoryId);
 }
