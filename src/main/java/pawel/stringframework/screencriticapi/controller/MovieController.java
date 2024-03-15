@@ -2,14 +2,11 @@ package pawel.stringframework.screencriticapi.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import pawel.stringframework.screencriticapi.model.Category;
 import pawel.stringframework.screencriticapi.model.MovieDTO;
-import pawel.stringframework.screencriticapi.repositories.MovieRepository;
 import pawel.stringframework.screencriticapi.services.MovieService;
 
 import java.util.List;
@@ -26,8 +23,8 @@ public class MovieController {
 
 
     @GetMapping(value = MOVIE_PATH)
-    public List<MovieDTO> listMovies(@RequestParam(required = false)Category category){
-        return movieService.listMovies(category);
+    public List<MovieDTO> listMovies(){
+        return movieService.listMovies();
     }
 
     @GetMapping(value = MOVIE_PATH_ID)

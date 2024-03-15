@@ -1,13 +1,21 @@
 drop table if exists movie;
+drop table if exists category;
 
-create table movie (
-    id varchar(36) not null,
-    movie_name varchar(50) not null,
-    movie_category smallint not null,
-    movie_description varchar(300) not null,
-    movie_director varchar(40) not null,
-    movie_release_date integer,
-    movie_avg_rating float,
-    version integer,
-    primary key (id)
-) engine=InnoDB;
+CREATE TABLE category (
+                          id VARCHAR(36) NOT NULL,
+                          name VARCHAR(50) NOT NULL,
+                          PRIMARY KEY (id)
+);
+
+CREATE TABLE movie (
+                       id VARCHAR(36) NOT NULL,
+                       movie_name VARCHAR(30) NOT NULL,
+                       movie_description VARCHAR(300) NOT NULL,
+                       movie_director VARCHAR(40) NOT NULL,
+                       movie_release_date INT,
+                       movie_average_rating FLOAT,
+                       version INT,
+                       movie_category_id VARCHAR(36),
+                       PRIMARY KEY (id),
+                       CONSTRAINT fk_movie_category FOREIGN KEY (movie_category_id) REFERENCES category(id)
+);
